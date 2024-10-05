@@ -6,7 +6,7 @@ using namespace std;
 class Queue_stack {
 private:
     stack<int> s1;
-    tack<int> s2;
+    stack<int> s2;
 
 public:
     // push operation
